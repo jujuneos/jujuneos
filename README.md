@@ -11,6 +11,6 @@
 - Adoro escrever, tocar, e sou apaixonado por Cinema.
 
 - Meus contatos são:
-    - E-mail: lcjuniorconceição@gmail.com
-    - Telefone: (79) 9 9848-1042
+    - E-mail: lcjuniorconceicao@gmail.com
+    - Telefone: (79) 99848-1042
     - LinkedIn: https://www.linkedin.com/in/júnior-conceição-a64426163/
