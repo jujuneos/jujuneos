@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, mundo! 👋
 
-<!--
-**jujuneos/jujuneos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Júnior, sou estudante de Sistemas de Informação na Universidade Federal de Sergipe.
 
-Here are some ideas to get you started:
+- Já trabalhei com suporte técnico na Faculdade de Administração e Negócios de Sergipe, e como projetista de Redes FTTH na New Telecom.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- No momento estou estudando .NET C#, além de lendo alguns artigos sobre Computação em Nuvem, Ciência de Dados e Engenharia de Software.
+
+- Colaborei no HU-Kids, uma plataforma de atividades lúdicas para crianças do Hospital Universitário de Sergipe.
+
+- Adoro escrever, tocar, e sou apaixonado por Cinema.
+
+- Meus contatos são:
+    - E-mail: lcjuniorconceição@gmail.com
+    - Telefone: (79) 9 9848-1042
+    - LinkedIn: https://www.linkedin.com/in/júnior-conceição-a64426163/
