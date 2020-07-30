@@ -21,9 +21,9 @@
 
 ### Hello, World! 👋
 
-- My name is Júnior, I'm Information Systems student at Federal University of Sergipe.
+- My name is Júnior, I'm Information Systems student at the Federal University of Sergipe.
 
-- I've already worked with technical support on Faculty of Administration and Business of Sergipe, and as FTTH Network projectist at New Telecom.
+- I've already worked with technical support at the Business and Administration Faculty of Sergipe, and as FTTH Network projectist at New Telecom.
 
 - At the moment, I'm studying .NET C# and Node.JS, besides reading some articles about Cloud Computing, Data Science and Software Engeneering.
 
