@@ -10,6 +10,8 @@
 
 - Adoro escrever, ler, tocar violão, e sou apaixonado por Cinema.
 
+- Lattes: http://lattes.cnpq.br/7990979305459499
+
 - Meus contatos são:
     - E-mail: lcjuniorconceicao@gmail.com
     - Telefone: (79) 99848-1042
@@ -30,6 +32,8 @@
 - I collaborated at HU-Kids, a ludic activities platform developed for children at the Universitary Hospital of Sergipe.
 
 - I love writing, reading, playing guitar, and I love Cinema.
+
+- Lattes: http://lattes.cnpq.br/7990979305459499
 
 - My contacts are:
     - E-mail: lcjuniorconceicao@gmail.com
