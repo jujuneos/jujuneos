@@ -4,7 +4,7 @@
 
 - Já trabalhei com suporte técnico na Faculdade de Administração e Negócios de Sergipe, e como projetista de Redes FTTH na New Telecom.
 
-- No momento estou estudando .NET C# e Node.JS, além de lendo alguns artigos sobre Computação em Nuvem, Ciência de Dados e Engenharia de Software.
+- No momento estou estudando .NET C# e Java.
 
 - Colaborei no HU-Kids, uma plataforma de atividades lúdicas desenvolvida para crianças do Hospital Universitário de Sergipe.
 
@@ -27,7 +27,7 @@
 
 - I've already worked with technical support at the Business and Administration Faculty of Sergipe, and as FTTH Network projectist at New Telecom.
 
-- At the moment, I'm studying .NET C# and Node.JS, besides reading some articles about Cloud Computing, Data Science and Software Engeneering.
+- At the moment, I'm studying .NET C# and Java.
 
 - I collaborated at HU-Kids, a ludic activities platform developed for children at the Universitary Hospital of Sergipe.
 
