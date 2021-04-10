@@ -4,7 +4,7 @@
 
 - Já trabalhei com suporte técnico na Faculdade de Administração e Negócios de Sergipe, e como projetista de Redes FTTH na New Telecom.
 
-- No momento estou estudando .NET C# e Java.
+- No momento estou trabalhando como Desenvolvedor de Software Júnior na Indra Brasil.
 
 - Colaborei no HU-Kids, uma plataforma de atividades lúdicas desenvolvida para crianças do Hospital Universitário de Sergipe.
 
@@ -27,7 +27,7 @@
 
 - I've already worked with technical support at the Business and Administration Faculty of Sergipe, and as FTTH Network projectist at New Telecom.
 
-- At the moment, I'm studying .NET C# and Java.
+- At the moment, I'm working as a Junior Software Developer at Indra Brasil.
 
 - I collaborated at HU-Kids, a ludic activities platform developed for children at the Universitary Hospital of Sergipe.
 
